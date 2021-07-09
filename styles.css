@@ -59,9 +59,9 @@ footer{
     justify-content: flex-end;
     flex-direction:column;
 }
-footer p, a{
+footer p{
     margin: 17px;
-    font-size: 15px;
+    font-size: 16px;
 }
 a{
     color: #53af57;
